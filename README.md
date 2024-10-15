@@ -1,15 +1,13 @@
-Alien Invasion
+Save the Ocean!
 ==============
 This is the sample game that is built in the first three Chapter of
 mobile HTML5 Game Development.
 
 It is released under both the GPL and MIT license to do with what you will.
 
-Playable Version: 
-http://cykod.github.com/AlienInvasion/
+npm install  # For Node.js projects
+pip install -r requirements.txt  # For Python-based games
 
-Bit.ly link for mobile: 
-http://bit.ly/html5-invasion
 
 
 If you make an interesting fork or enhancement of the game, let me know and it'll get
